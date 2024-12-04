@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>
+
+            About Me!
+
+        </title>
+
+    </head>
+
+    <style>
+
+        .button {
+            border-radius: 25px;
+            color: #3E181E;
+            padding: 04px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 15px;
+            margin: 4px 40px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+
+        .button1 {
+            background-color: #B28583;
+            color: white;
+            border: 2px solid #3E181E;
+        }
+
+        .button1:hover {
+            background-color: white;
+            color: white;
+        }
+        
+    </style>
+
+    <body style="background-color: #3E181E;">
+
+        <p style="font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #614848;
+        text-align: center;
+        position: absolute;
+        right: 500px;
+        top: 0px;;"> <i> [ Tip: Hover your cursor on the images for some silly flavor text! ] </i>
+        </p>
+
+        <br />
+
+        <h1 style="border-radius: 25px;
+        padding: 16px 32px;
+        background-color: #B28583;
+        border: 5px solid #3E181E;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #3E181E;
+        text-align: center;"> My Autobiography! </h1>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        
+        <div>
+            <img title="It's me again! But for real this time!" 
+            src="HTML_BLOG/ME_CROPPED.jpeg"
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 291px;
+            height: 428;
+            position: absolute;
+            left: 100px;
+            top: 140px;">
+            
+            <span style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-color:#B28583; 
+            padding: 1em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            left: 435px;
+            top: 170px;"> <b>Hiya!</b>
+            My name is <b>Vashti E. Domingo</b>!
+            I’m <b>18 years old</b> and I was born on <b>October 1, 2005</b>. I'm currently living with my parents, <br />
+            <b>Rosalinda E. Domingo</b>, and <b>Renan C. Domingo</b>, in my hometown of <b>General Trias Cavite</b>, in the tropical country of the <b>Philippines</b>.
+            </span>
+
+            <span style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-color:#B28583; 
+            padding: 1em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            left: 435px;
+            top: 260px;"> I’m also currently studying in the <b>Lyceum of the Philippines University</b> in <b>Computer Science</b> and, <i>hopefully soon</i>, in <b>Animation and <br />
+            Digital Arts</b>.
+            </span>
+
+            <span style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-color:#B28583; 
+            padding: 1em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            left: 447px;
+            top: 350px;"> It’s kind of funny, actually… because back when I was just in 11th grade, I always thought that I would end up taking Multimedia Arts as my <br />
+            course, because drawing was pretty much my entire life.
+            </span>
+        </div>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+        <hr />
+
+        <div>
+            <img title="Papa Maui (left), Mama Rose (middle), and Me! (right)" 
+            src="HTML_BLOG/TRIO_CROPPED.jpeg"
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 400px;
+            height: 300px;
+            position: absolute;
+            right: 100px;
+            top: 530px;">
+            
+            <span style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-color:#B28583; 
+            padding: 1em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            right: 530px;
+            top: 560px;"> Back when I was a kid (until now, of course), every time I had access to paper and pens, I always sketch and draw for as long as I can <br />
+            until I get bored or distracted from it. It was pretty much the only thing I knew how to do and was happy in doing it.
+            </span>
+
+            <span style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-color:#B28583; 
+            padding: 1em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            right: 535px;
+            top: 650px;"> But after thinking about and talking to my mom about it, I realized that I wanted to branch out of my comfort zone more and learn <br />
+            new skills that I can incorporate my art with, and to not just stick to knowing how to do just one thing in my life.
+            </span>
+
+            <span style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-color:#B28583; 
+            padding: 1em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            right: 560px;
+            top: 740px;"> So, although I had a lot of doubts starting out the first time, I still pushed through all of the hard and frustrating challenges <br />
+            during my first year, what with all the coding and math and whatnot.
+            </span>
+        </div>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+        <hr />
+
+        <p style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-color:#B28583; 
+            padding: 1em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            right: 300px;
+            top: 950px;"> Honestly, it even got to the point when I started to genuinely think about shifting to another course and just straight-up quitting.
+        </p>
+
+        <p style="border-radius: 25px;
+        border: 5px solid #3E181E;
+        background-color:#B28583; 
+        padding: 1em;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #3E181E;
+        text-align: center;
+        position: absolute;
+        right: 300px;
+        top: 1020px;"> And, thanks to God, my parents, my friends, my classmates, my amazing professors, and their progressively interesting subjects… <br />
+        Well... Let’s just say I changed my mind, <i>aaand</i> now I’m still here surviving, somehow!
+        </p>
+
+        <p style="font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #614848;
+        text-align: center;
+        position: absolute;
+        right: 600px;
+        top: 1099px;"> (Seriously, guys, thank you for everything.)
+        </p>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+        <hr />
+
+        <br />
+
+        <p style="font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #614848;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;"> But enough of that <i>sappy stuff</i>... <br />
+        It's time for somethin' a little bit more lighthearted!
+        </p>
+
+        <h1 style="border-radius: 25px;
+        padding: 16px 32px;
+        background-color: #B28583;
+        border: 5px solid #3E181E;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #3E181E;
+        text-align: center;"> My Hobbies! </h1>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            * {
+            box-sizing: border-box;
+            }
+
+            .row {
+            display: flex;
+            }
+
+            .column {
+            flex: 33.33%;
+            padding: 5px;
+            }
+        </style>    
+
+        <div class="row">
+        <div class="column">
+            <img title="Need I say more?"
+            src="HTML_BLOG/HOBBIES_1.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 300px;
+            height: 400px;
+            position: absolute;
+            left: 310px;
+            bottom: -1100px;">
+        </div>
+        <div class="column">
+            <img title="Listen, I just love listening to nerds roll dice and roleplay!!!"
+            src="HTML_BLOG/HOBBIES_2.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 300px;
+            height: 400px;
+            position: absolute;
+            left: 610px;
+            bottom: -1100px;">
+        </div>
+        <div class="column">
+            <img title="I mostly read old fantasy novels and graphic novels!"
+            src="HTML_BLOG/HOBBIES_3.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 300px;
+            height: 400px;
+            position: absolute;
+            left: 910px;
+            bottom: -1100px;">
+        </div>
+        </div>
+
+        <div class="row">
+            <div class="column">
+                <img title=".........."
+                src="HTML_BLOG/HOBBIES_4.png" 
+                style="border-radius: 25px;
+                border: 5px solid #3E181E;
+                background-repeat: repeat;
+                padding: 0px; 
+                width: 300px;
+                height: 400px;
+                position: absolute;
+                left: 310px;
+                bottom: -1500px;">
+            </div>
+            <div class="column">
+                <img title="Trying out new stuff is always fun!"
+                src="HTML_BLOG/HOBBIES_5.png" 
+                style="border-radius: 25px;
+                border: 5px solid #3E181E;
+                background-repeat: repeat;
+                padding: 0px; 
+                width: 300px;
+                height: 400px;
+                position: absolute;
+                left: 610px;
+                bottom: -1500px;">
+            </div>
+            <div class="column">
+                <img title="It's my favorite pastime!"
+                src="HTML_BLOG/HOBBIES_6.png" 
+                style="border-radius: 25px;
+                border: 5px solid #3E181E;
+                background-repeat: repeat;
+                padding: 0px; 
+                width: 300px;
+                height: 400px;
+                position: absolute;
+                left: 910px;
+                bottom: -1500px;">
+            </div>
+            </div>
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+    
+            <hr />
+            
+            <br />
+
+            <h1 style="border-radius: 25px;
+            padding: 16px 32px;
+            background-color: #B28583;
+            border: 5px solid #3E181E;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;"> My Favorite Characters! </h1>
+
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+                * {
+                box-sizing: border-box;
+                }
+
+                .row {
+                display: flex;
+                }
+
+                .column {
+                flex: 33.33%;
+                padding: 5px;
+                }
+            </style>    
+
+            <div class="row">
+            <div class="column">
+                <img title="GRAAAAAAAAH GRRRRG HREEHUTHERGHGER RR GRGRR GR"
+                src="HTML_BLOG/CHC_1.png" 
+                style="border-radius: 25px;
+                border: 5px solid #3E181E;
+                background-repeat: repeat;
+                padding: 0px; 
+                width: 650px;
+                height: 400px;
+                position: absolute;
+                left: 100px;
+                bottom: -2130px;">
+            </div>
+            <div class="column">
+                <img title="He's so fun to draw!! Especially with fashionable outfits!!!"
+                src="HTML_BLOG/CHC_2.png" 
+                style="border-radius: 25px;
+                border: 5px solid #3E181E;
+                background-repeat: repeat;
+                padding: 0px; 
+                width: 650px;
+                height: 400px;
+                position: absolute;
+                left: 750px;
+                bottom: -2130px;">
+            </div>
+
+            <div class="row">
+            <div class="column">
+                <img title="Niffty my one and only my beloved <33"
+                src="HTML_BLOG/CHC_3.png" 
+                style="border-radius: 25px;
+                border: 5px solid #3E181E;
+                background-repeat: repeat;
+                padding: 0px; 
+                width: 650px;
+                height: 400px;
+                position: absolute;
+                left: 100px;
+                bottom: -2530px;">
+            </div>
+            <div class="column">
+                <img title=" ♪ pi pi pi pi pi pi pi pi ♫ "
+                src="HTML_BLOG/CHC_4.png" 
+                style="border-radius: 25px;
+                border: 5px solid #3E181E;
+                background-repeat: repeat;
+                padding: 0px; 
+                width: 650px;
+                height: 400px;
+                position: absolute;
+                left: 750px;
+                bottom: -2530px;">
+            </div>
+
+            <img title="I love you a million, Gillion."
+            src="HTML_BLOG/CHC_5.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 650px;
+            height: 400px;
+            position: absolute;
+            left: 430px;
+            bottom: -2930px;">
+
+            <button 
+            title="What're ya waitin' for?"
+            class="button button1"
+            style="position: absolute;
+            left: 650px;
+            bottom: -3000px;">
+            <a href="Main%20Page.html" style="font-family: Georgia, 'Times New Roman', Times, serif;"> Back to main page! </a>
+            </button>
+
+            <p style="font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #3E181E;
+            text-align: center;
+            position: absolute;
+            left: 650px;
+            bottom: -3050px;"> [ secret space for webpage oooooo ]
+            </p>
+
+    </body>
+
+</html>

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>
+
+            Art Portfolio!
+
+        </title>
+
+    </head>
+
+    <style>
+
+        .button {
+            border-radius: 25px;
+            color: #3E181E;
+            padding: 04px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 15px;
+            margin: 4px 40px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+
+        .button1 {
+            background-color: #B28583;
+            color: white;
+            border: 2px solid #3E181E;
+        }
+
+        .button1:hover {
+            background-color: white;
+            color: white;
+        }
+        
+    </style>
+
+    <body style="background-color: #3E181E;">
+        <p style="font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #614848;
+        text-align: center;
+        position: absolute;
+        right: 500px;
+        top: 0px;;"> <i> [ Tip: Hover your cursor on the images for some silly flavor text! ] </i>
+        </p>
+
+        <br />
+
+        <h1 style="border-radius: 25px;
+        padding: 16px 32px;
+        background-color: #B28583;
+        border: 5px solid #3E181E;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #3E181E;
+        text-align: center;"> My Art Portfolio! </h1> 
+
+        <a href="https://twitter.com/veeornotovee/status/1740311474701222032/photo/1"> 
+            <img title="This piece features two of my original characters, who I'll hopefully be able to make a game about someday!"
+            src="HTML_BLOG/01.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 750px;
+            height: 500px;
+            position: absolute;
+            left: 55px;
+            top: 160px;">
+        </a>
+
+        <a href="https://www.tumblr.com/veevoosh/726941026875555840/i-hardly-know-er"> 
+            <img title="I drew this thinking that Hazbin Hotel would come out this year... But as it turns out, it's coming out THIS JANUARY 19TH!!!! WOOOOO!!!!"
+            src="HTML_BLOG/04.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 640px;
+            height: 520px;
+            position: absolute;
+            left: 810px;
+            top: 150px;">
+        </a>
+
+        <a href="https://www.tumblr.com/veevoosh/737944048569040896/drew-summa-my-fav-characters-for-a-project"> 
+            <img title="This was the lineup of all my favorite characters I drew for the webpage!"
+            src="HTML_BLOG/02.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 1300px;
+            height: 400px;
+            position: absolute;
+            left: 95px;
+            top: 690px;">
+        </a>
+        
+        <a href="https://twitter.com/veeornotovee/status/1646137432524615680/photo/1"> 
+            <img title="This was the poster I drew for my project in arts back in Grade 12!"
+            src="HTML_BLOG/05.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 1125px;
+            height: 750px;
+            position: absolute;
+            left: 180px;
+            top: 1110px;">
+        </a>
+
+        <a href="https://www.tumblr.com/veevoosh/737944166468911104/also-this-i-tried-making-a-bookmark-for-a"> 
+            <img title="This was the design for a bookmark that I made for my friend!"
+            src="HTML_BLOG/03.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 187.5px;
+            height: 537.5px;
+            position: absolute;
+            left: 85px;
+            top: 1930px;">
+        </a>
+
+        <a href="https://twitter.com/veeornotovee/status/1682289097006780421/photo/1"> 
+            <img title="This was the re-design of my Dungeons & Dragons character!"
+            src="HTML_BLOG/11.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 375px;
+            height: 500px;
+            position: absolute;
+            left: 300px;
+            top: 1950px;">
+        </a>
+
+        <a href="https://www.tumblr.com/veevoosh/722151331643736064/i-am-going-insane-j"> 
+            <img title="This was the time that I tried to draw all of the Hazbin Hotel characters after I watched the cartoon's pilot for the first time back in summer!"
+            src="HTML_BLOG/14.png" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 675px;
+            height: 625px;
+            position: absolute;
+            left: 700px;
+            top: 1900px;">
+        </a>
+
+        <img title="This was the time that I drew my fursona with a mouse in school this year!"
+            src="HTML_BLOG/FURSONA.jpg" 
+            style="border-radius: 25px;
+            border: 5px solid #3E181E;
+            background-repeat: repeat;
+            padding: 0px; 
+            width: 500px;
+            height: 375px;
+            position: absolute;
+            left: 500px;
+            top: 2550px;">
+
+        <button 
+        title="What're ya waitin' for?"
+        class="button button1"
+        style="position: absolute;
+        left: 650px;
+        bottom: -2300px;">
+        <a href="Main%20Page.html" style="font-family: Georgia, 'Times New Roman', Times, serif;"> Back to main page! </a>
+        </button>
+
+        <p style="font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #3E181E;
+        text-align: center;
+        position: absolute;
+        left: 650px;
+        bottom: -2350px;"> [ secret space for webpage oooooo ]
+        </p>
+            
+    </body>
+
+</html>
